@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/VatcheTavitian/VatcheTavitian/blob/main/newbanner.gif)
+![MasterHead](https://github.com/VatcheTavitian/VatcheTavitian/blob/main/nerdy.gif)
 
 - 👋 Hi there! I'm Vatche
 - 🌏 Originally from Sydney, Australia, I am now based in Yerevan, Armenia 🇦🇺🇦🇲
