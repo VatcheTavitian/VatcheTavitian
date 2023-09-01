@@ -1,13 +1,8 @@
 ![MasterHead](https://github.com/VatcheTavitian/VatcheTavitian/blob/main/newbanner.gif)
 
-
-- 👋 Hi, I’m @VatcheTavitian
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-VatcheTavitian/VatcheTavitian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi there! I'm Vatche
+- 🌏 Originally from Sydney, Australia, I am now based in Yerevan, Armenia 🇦🇺🇦🇲
+- 📊 My background prior software development was in Account and Project Management
+- 📚 Currently, I'm on an exciting journey, studying at 42Yerevan 🎓
+- 💻 Shifting gears and diving headfirst into the fascinating world of programming 🚀🖥️
+- 📫 You can reach me on LinkedIn at www.linkedin.com/in/vatchetavitian
