@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/VatcheTavitian/VatcheTavitian/blob/main/cartprogwithtext.gif)
+![MasterHead](https://github.com/VatcheTavitian/VatcheTavitian/blob/main/newbanner.gif)
 
 
 - 👋 Hi, I’m @VatcheTavitian
