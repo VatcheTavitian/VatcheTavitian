@@ -6,3 +6,4 @@
 - 📚 Currently, I'm on an exciting journey, studying programming at 42Yerevan 🎓
 - 💻 Excited to be shifting gears into this new world! 🚀🖥️
 - 📫 You can connect with me on LinkedIn at www.linkedin.com/in/vatchetavitian
+- 🚧 !ATTENTION! Github repos undergoing clean up! Python/Django/Javascript repos will be re-added soon!
